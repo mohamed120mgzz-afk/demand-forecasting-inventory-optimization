@@ -1,0 +1,25 @@
+
+# Data manipulation
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+xgboost
+statsmodels
+
+# Visualization
+matplotlib
+seaborn
+
+# Save and load models
+joblib
+
+# Jupyter Notebook
+ipykernel
+
+# API
+fastapi
+uvicorn
+python-dotenv
+pydantic
